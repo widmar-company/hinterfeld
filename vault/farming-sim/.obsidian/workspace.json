@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "ddaeaeafb426c341",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a0c275ab444f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "627827f8280ff5a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "planning/Farming.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Farming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2a1e4c84801e9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e3ae3d6f47b211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a5e0c0228fad9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3f22c3c6a863bcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "99e04e4dc8a2b7ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd1c723e32c3a6e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "faccc469e414b747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c4b79bcdb725959",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "planning/Farming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Farming"
+            }
+          },
+          {
+            "id": "848b3334470c3c3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "planning/Farming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Farming"
+            }
+          },
+          {
+            "id": "dc6023276f6ee80c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1aae28582a81b78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "planning/Farming.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Farming"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a8a5e0c0228fad9a",
+  "lastOpenFiles": [
+    "story",
+    "world/worldbuilding.md",
+    "planning/Farming.md",
+    "Summary.md",
+    "world",
+    "outlines/tractor.canvas",
+    "planning",
+    "outlines"
+  ]
+}

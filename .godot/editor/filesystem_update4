@@ -1,0 +1,5 @@
+res://source/player/player.gd
+res://content/theme/base.tres
+res://scene/menu/title.tscn
+res://scene/object/player/player.tscn
+res://scene/world/forest.tscn

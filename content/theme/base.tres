@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://cyp23qogh45wv"]
+
+[ext_resource type="FontFile" uid="uid://c8sn2thjdpdc6" path="res://content/theme/font/Copse/Copse-Regular.ttf" id="1_lj5w5"]
+
+[resource]
+default_font = ExtResource("1_lj5w5")
+Label/colors/font_color = Color(0.921569, 0.858824, 0.698039, 1)
